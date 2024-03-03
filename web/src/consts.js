@@ -10,6 +10,19 @@ export const PROJECTS = [
       "Eventos de mouse y touch",
       "Transiciones CSS",
     ],
-    youtube: 'https://www.youtube.com/watch?v=u01WD_YNENY'
+    youtube: "https://www.youtube.com/watch?v=u01WD_YNENY",
   },
-]
+  {
+    slug: "02-arkanoid-game",
+    title: "Arkanoid Game",
+    description:
+      "Juego mítico y clásico de Arkanoid para controlar con teclado",
+    learnings: [
+      "Dibujar en Canvas",
+      "Eventos de teclado",
+      "RequestAnimationFrame",
+      "Sprites",
+    ],
+    youtube: "https://www.youtube.com/watch?v=b6du6MvQmuQ",
+  },
+];
